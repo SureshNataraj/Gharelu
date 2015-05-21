@@ -1,0 +1,119 @@
+
+.boldorange
+{
+    COLOR: #c4d2c1;
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 19px;
+    FONT-WEIGHT: bold
+}
+.chicago
+{
+    FONT-FAMILY: chicago,arial black,arial;
+    FONT-SIZE: 10px;
+    LETTER-SPACING: 0pt
+}
+.large
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 16px;
+    LETTER-SPACING: 1pt
+}
+.med
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 13px;
+    LETTER-SPACING: 0pt
+}
+.menu
+{
+ background-color:ivory;
+ border-color: #000000;
+ border-style: solid;
+ border-width: 1px;
+ color: #ffd700; 
+ font-family:verdana,ariel;
+ font-size: 10px; font-weight: normal; 
+ layer-background-color: #FFCACA;
+ padding: 0px; 
+ position: absolute; 
+ visibility: hidden; 
+ width: 130; 
+}
+.size10
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 13px
+}
+.size12
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 16px
+}
+.size8
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 11px
+}
+.small
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 11px;
+    LETTER-SPACING: 0pt
+}
+.verdana
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 10px;
+    LETTER-SPACING: 0pt
+}
+.xlarge
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 19px;
+    LETTER-SPACING: 0pt
+}
+.xxlarge
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 24px;
+    LETTER-SPACING: 0pt
+}
+
+
+A {TEXT-DECORATION: none;}
+A:hover {
+	COLOR: #0000bb; TEXT-DECORATION: none;
+	}
+A.DARK2
+{
+    COLOR: #ffd700
+}
+A.DARK3
+{
+    COLOR: #ffd700
+}
+A.LIGHT2 
+{
+    COLOR: #ffd700
+}
+B.bold
+{
+    COLOR: #ffd700
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 13px;
+    FONT-WEIGHT: bold;
+    LETTER-SPACING: 0pt
+}
+TD
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 13px;
+    LETTER-SPACING: 0pt
+}
+TD B
+{
+    FONT-FAMILY: verdana,arial;
+    FONT-SIZE: 13px;
+    FONT-WEIGHT: bold;
+    LETTER-SPACING: 0pt
+}
